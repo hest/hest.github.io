@@ -1,7 +1,7 @@
-title: hest.github.io
+title: hest.kr
 description: 
-google_analytics: 
-show_downloads: true
+google_analytics: UA-41332426-1
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
