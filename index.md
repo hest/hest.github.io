@@ -1,7 +1,7 @@
 Dongmin Jang _a.k.a. Hest_
 ==========
 
-Email: <im@hest.kr>
+Email: <im@hest.st>
 
 Facebook: <https://www.facebook.com/hestst>
 
