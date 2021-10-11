@@ -7,6 +7,8 @@ Keybase: <https://keybase.io/hest>
 
 RocketPunch: <https://www.rocketpunch.com/@hest>
 
+LinkedIn: <https://www.linkedin.com/in/hest/>
+
 
 ### Skills
 
