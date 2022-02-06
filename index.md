@@ -1,22 +1,21 @@
 Dongmin Jang _a.k.a. Hest_
 ==========
 
-Email: <im@hest.st>
 
-Keybase: <https://keybase.io/hest>
+### Contacts
 
-RocketPunch: <https://www.rocketpunch.com/@hest>
-
-LinkedIn: <https://www.linkedin.com/in/hest/>
+- Email: <im@hest.st>
+- Keybase: <https://keybase.io/hest>
+- RocketPunch: <https://www.rocketpunch.com/@hest>
+- LinkedIn: <https://www.linkedin.com/in/hest/>
 
 
 ### Skills
 
-- Python, Flask, Celery, SQLAlchemy
-- npm/yarn, Webpack, jQuery, Sass/Scss
-- Ubuntu Linux, WSL, Nginx, Redis, Elasticsearch, PostgreSQL, Git
-- Flutter
-- AWS, GCP
+- Python, FastAPI, Django, Flask, Celery, SQLAlchemy
+- Flutter, Dart, Firebase
+- Ubuntu Linux, Nginx, Redis, Elasticsearch, PostgreSQL, Git
+- Amazon Web Services
 
 
 ### Project(s)
