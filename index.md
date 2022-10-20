@@ -1,13 +1,8 @@
-Dongmin Jang _a.k.a. Hest_
-==========
-
-
-### Contacts
-
-- Email: <im@hest.st>
-- Keybase: <https://keybase.io/hest>
-- RocketPunch: <https://www.rocketpunch.com/@hest>
-- LinkedIn: <https://www.linkedin.com/in/hest/>
+---
+layout: page
+title: About
+subtitle: Dongmin Jang
+---
 
 
 ### Skills
@@ -18,15 +13,16 @@ Dongmin Jang _a.k.a. Hest_
 - Amazon Web Services
 
 
-### Project(s)
+### Experiences
+
+- [LinkedIn 🔗](https://www.linkedin.com/in/hest/)
+- [RocketPunch 🔗](https://www.rocketpunch.com/@hest)
+
+### Projects
 
 - [Ateli](https://ateli.com) (12 Jan, 2013 -)
     + A blogging service for creators. Available in English, Japanese, or Korean.
-
-
-### Previous Projects
-
-- [TVple](https://tvple.com) (1 Feb, 2008 - 28 Feb, 2017)
+- TVple (1 Feb, 2008 - 28 Feb, 2017)
     + A video sharing service. Users can leave comments on the video screen.
     + Acquired by Ultra Monster, Inc. in 2015.
 - byNode (May 29, 2013 - 22 Mar, 2016)
