@@ -16,7 +16,6 @@ subtitle: Dongmin Jang
 ### Experiences
 
 - [LinkedIn 🔗](https://www.linkedin.com/in/hest/)
-- [RocketPunch 🔗](https://www.rocketpunch.com/@hest)
 
 ### Projects
 
